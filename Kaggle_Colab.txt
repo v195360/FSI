@@ -1,2 +1,16 @@
+Roteiro
+Escolher uma classe de modelo importando do Scikit.
+
+Escolher os hiperparâmetros do modelo instanciando a classe escolhida.
+
+Organizar os dados em uma feature matrix e um target array.
+
+Ajustar o modelo invocando o método fit().
+
+Aplicar o modelo aos novos dados usando predict().
+
+link Banco de Dados Marvel vs DC (Kaggle):
 https://www.kaggle.com/leonardopena/marvel-vs-dc
+
+link Colab:
 https://colab.research.google.com/drive/1YmnpkvxcU3cD5nU1AOjpyXiUPw8WXgic#scrollTo=ZGi5oFxn1ZSo
